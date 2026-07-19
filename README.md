@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/skyson-ai">MICHEE CEPHAS</a> 👋</h1>
 
-<h3 align="center">🚀 Software Engineer | Full-Stack & MLOps</h3>
+<h3 align="center">🚀 Software Engineer | Junior Data Scientist</h3>
 
 <p align="center">
-  <em>Building innovative solutions with Python, TypeScript & modern cloud architectures</em>
+  <em>Passionate about crafting innovative solutions using Python and its powerful frameworks</em>
 </p>
 
 <p align="center">
@@ -158,7 +158,7 @@
 <br>
 <em>Mobile learning management system for on-the-go education</em>
 <br>
-`JavaScript` `Mobile`
+`JavaScript` `React Native`
 
     </td>
     <td width="50%" valign="top">
