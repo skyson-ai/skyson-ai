@@ -48,39 +48,30 @@ Alongside ERP engineering, I have completed Master 1 studies in Big Data Analyti
 - Measure outcomes, not just features shipped
 </td>
 </tr>
-</table>🛠️ Toolbox
-<div align="center">ERP & Business Applications
-
-
-
-
-
-Backend & APIs
-
-
-
-
-
-Frontend & Full Stack
-
-
-
-
-
-
-Data & Machine Learning
-
-
-
-
-
-
-Tools & Delivery
-
-
-
-
-</div>🚀 Selected work
+</table>🛠️ Tech Stack & Tools
+<div align="center">Technologies I use or have worked with — across ERP, web development, data science and delivery.
+🟣 ERP & Business Systems
+<a href="https://www.odoo.com/"><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" height="34" /></a>
+<img src="https://img.shields.io/badge/QWeb-714B67?style=for-the-badge" alt="QWeb" height="34" />
+<img src="https://img.shields.io/badge/XML-555555?style=for-the-badge" alt="XML" height="34" />
+<img src="https://img.shields.io/badge/Odoo_ORM-714B67?style=for-the-badge" alt="Odoo ORM" height="34" />
+💻 Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark&perline=6" alt="Python, JavaScript, TypeScript, Java, C and C++ logos" />🌐 Frontend & Full-stack
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark&perline=5" alt="Next.js, React, Tailwind CSS, HTML and CSS logos" />⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs&theme=dark&perline=4" alt="Django, FastAPI, Flask and Node.js logos" /><img src="https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy" />🗄️ Databases & ORM
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sqlite&theme=dark&perline=5" alt="PostgreSQL, MySQL, MongoDB, Prisma and SQLite logos" />🧠 Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark&perline=2" alt="Scikit-learn and TensorFlow logos" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/LightGBM-298D46?style=for-the-badge" alt="LightGBM" />
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
+<img src="https://img.shields.io/badge/CatBoost-F4C542?style=for-the-badge&logoColor=black" alt="CatBoost" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow" />
+<img src="https://img.shields.io/badge/DVC-1CACEB?style=for-the-badge" alt="DVC" />☁️ DevOps, Cloud & Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,vscode,postman&theme=dark&perline=7" alt="Git, GitHub, GitHub Actions, Docker, Vercel, VS Code and Postman logos" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></div>🚀 Selected work
 Some professional ERP implementations and internal tools are private. The links below point to projects from my GitHub portfolio; repository availability depends on their visibility settings.
 
 Project	What it demonstrates	Stack
