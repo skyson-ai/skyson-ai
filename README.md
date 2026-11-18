@@ -49,34 +49,34 @@ Alongside ERP engineering, I have completed Master 1 studies in Big Data Analyti
 </td>
 </tr>
 </table>🛠️ Tech Stack & Tools
-<div align="center">Technologies I use or have worked with — across ERP, web development, data science and delivery.
-🟣 ERP & Business Systems
-<a href="https://www.odoo.com/"><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" height="34" /></a>
-<img src="https://img.shields.io/badge/QWeb-714B67?style=for-the-badge" alt="QWeb" height="34" />
-<img src="https://img.shields.io/badge/XML-555555?style=for-the-badge" alt="XML" height="34" />
-<img src="https://img.shields.io/badge/Odoo_ORM-714B67?style=for-the-badge" alt="Odoo ORM" height="34" />
-💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark&perline=6" alt="Python, JavaScript, TypeScript, Java, C and C++ logos" />🌐 Frontend & Full-stack
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark&perline=5" alt="Next.js, React, Tailwind CSS, HTML and CSS logos" />⚙️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs&theme=dark&perline=4" alt="Django, FastAPI, Flask and Node.js logos" /><img src="https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square" alt="REST APIs" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy" />🗄️ Databases & ORM
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sqlite&theme=dark&perline=5" alt="PostgreSQL, MySQL, MongoDB, Prisma and SQLite logos" />🧠 Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark&perline=2" alt="Scikit-learn and TensorFlow logos" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/LightGBM-298D46?style=for-the-badge" alt="LightGBM" />
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
-<img src="https://img.shields.io/badge/CatBoost-F4C542?style=for-the-badge&logoColor=black" alt="CatBoost" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow" />
-<img src="https://img.shields.io/badge/DVC-1CACEB?style=for-the-badge" alt="DVC" />☁️ DevOps, Cloud & Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,vscode,postman&theme=dark&perline=7" alt="Git, GitHub, GitHub Actions, Docker, Vercel, VS Code and Postman logos" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></div>🚀 Selected work
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,express,nextjs,react,tailwind,html,css&theme=dark&perline=9" alt="Programming and frontend technologies" />
+</p><p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,postgres,mysql,mongodb,redis,prisma,sqlite&theme=dark&perline=9" alt="Backend, databases and ORM technologies" />
+</p><p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,git,github,githubactions,docker,vercel,vscode,postman&theme=dark&perline=9" alt="Machine learning, DevOps and developer tools" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" height="32" />
+  <img src="https://img.shields.io/badge/QWeb-714B67?style=for-the-badge" alt="QWeb" height="32" />
+  <img src="https://img.shields.io/badge/XML-555555?style=for-the-badge" alt="XML" height="32" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy" height="32" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="32" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="32" />
+  <img src="https://img.shields.io/badge/LightGBM-298D46?style=for-the-badge" alt="LightGBM" height="32" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" height="32" />
+  <img src="https://img.shields.io/badge/CatBoost-F4C542?style=for-the-badge&logoColor=black" alt="CatBoost" height="32" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow" height="32" />
+  <img src="https://img.shields.io/badge/DVC-1CACEB?style=for-the-badge" alt="DVC" height="32" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" height="32" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" height="32" />
+</p>🚀 Selected work
 Some professional ERP implementations and internal tools are private. The links below point to projects from my GitHub portfolio; repository availability depends on their visibility settings.
 
 Project	What it demonstrates	Stack
 TaskFlow — Kanaga Consulting	Internal task and workflow management	Next.js · TypeScript · Prisma · PostgreSQL
-Hello World MLOps	ML pipeline and deployment practices	Python · Docker · GitHub Actions · Flask
+Hello World MLOps	ML pipeline and deployment practices	Python · Docker · GitHub Actions
 Taskmaster	Full-stack task management	Next.js · FastAPI · TypeScript
 Wine Prediction Model	Applied machine learning	Python · Scikit-learn · Pandas
 Blog Project	Web application development	Python · TypeScript
@@ -91,6 +91,7 @@ Beyond public repositories
 📊 GitHub activity
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=skyson-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyson-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages in public repositories" height="165" /><img src="https://streak-stats.demolab.com?user=skyson-ai&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  
 </div>🤝 Let's connect
 I'm interested in Odoo/ERP engineering, full-stack product development, and practical Data Science & AI. I enjoy collaborating on solutions that create measurable value for organizations, especially in African markets.
 <div align="center">
