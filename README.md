@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-update.vercel.app">
+  <a href="https://https://michee-cephas-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-my--portfolio--update.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/michee-cephas">
