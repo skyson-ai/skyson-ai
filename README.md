@@ -9,7 +9,7 @@ Based in Côte d'Ivoire 🇨🇮 · Working across ERP, full-stack engineering a
 </div>👨🏽‍💻 About me
 I'm a Python-focused software engineer and Odoo technical/functional consultant with hands-on experience translating business needs into practical ERP solutions. I work across business process analysis, Odoo configuration and customization, API development, and modern web applications.
 
-Alongside ERP engineering, I have completed Master 1 studies in Big Data Analytics and develop my skills in applied machine learning, data science and AI-powered workflows.
+Alongside ERP engineering, I have completed Master studies in Big Data Analytics and develop my skills in applied machine learning, data science and AI-powered workflows.
 - 🏢 Currently: Odoo development and IT projects at Kanaga Consulting
 - 🧩 Previously: Odoo development at Progistack, working on real-world business workflows
 - 🎯 Focus: business impact, maintainable code, thoughtful architecture and user adoption
