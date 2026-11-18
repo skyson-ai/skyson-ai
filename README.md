@@ -99,7 +99,7 @@ Beyond public repositories
 - MA PISS: a real-estate rental platform built with Next.js — visit the website
 📊 GitHub activity
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=skyson-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyson-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages in public repositories" height="165" /><img src="https://streak-stats.demolab.com?user=skyson-ai&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /><sub>These widgets are provided by third-party services and may occasionally be unavailable. Language percentages reflect repository code, not overall expertise.</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyson-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages in public repositories" height="165" /><img src="https://streak-stats.demolab.com?user=skyson-ai&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>🤝 Let's connect
 I'm interested in Odoo/ERP engineering, full-stack product development, and practical Data Science & AI. I enjoy collaborating on solutions that create measurable value for organizations, especially in African markets.
 <div align="center">
