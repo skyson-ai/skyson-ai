@@ -14,7 +14,7 @@ Alongside ERP engineering, I have completed Master studies in Big Data Analytics
 - 🧩 Previously: Odoo development at Progistack, working on real-world business workflows
 - 🎯 Focus: business impact, maintainable code, thoughtful architecture and user adoption
 - 🌍 Location: Côte d'Ivoire · Open to technical collaboration
-🧭 What I work on
+<div>🧭 What I work on<div/>
 <table>
 <tr>
 <td width="50%" valign="top">🟣 ERP & Odoo
